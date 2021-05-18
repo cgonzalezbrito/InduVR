@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\InduVR.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{EFA80A59-105A-4382-A265-937EE96BC30C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\InduVR.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\InduVREditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{644FD8E8-9485-4696-B647-B1E0B9ED45F9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\InduVR">
+      <UniqueIdentifier>{C508CEBA-D524-4221-A28A-830498E1E878}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\InduVR\InduVR.Build.cs">
+      <Filter>Source\InduVR</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\InduVR\InduVR.cpp">
+      <Filter>Source\InduVR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InduVR\InduVR.h">
+      <Filter>Source\InduVR</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InduVR\InduVRGameModeBase.cpp">
+      <Filter>Source\InduVR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InduVR\InduVRGameModeBase.h">
+      <Filter>Source\InduVR</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

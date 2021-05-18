@@ -1,0 +1,2 @@
+C:\Users\cg0nz4lezbr1t0\Workspace\InduVR\Intermediate\Build\Win64\UE4Editor\Development\InduVR\Definitions.InduVR.h
+C:\Users\cg0nz4lezbr1t0\Workspace\InduVR\Source\InduVR\InduVR.h

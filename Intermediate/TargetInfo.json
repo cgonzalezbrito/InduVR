@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "InduVR",
+			"Path": "C:\\Users\\cg0nz4lezbr1t0\\Workspace\\InduVR\\Source\\InduVR.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "InduVREditor",
+			"Path": "C:\\Users\\cg0nz4lezbr1t0\\Workspace\\InduVR\\Source\\InduVREditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
