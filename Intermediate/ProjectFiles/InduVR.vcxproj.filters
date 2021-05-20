@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\InduVR.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{EFA80A59-105A-4382-A265-937EE96BC30C}</UniqueIdentifier>
+      <UniqueIdentifier>{07D36C5F-C1D3-467B-9A45-F15C0F47A7C3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\InduVR.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\InduVREditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{644FD8E8-9485-4696-B647-B1E0B9ED45F9}</UniqueIdentifier>
+      <UniqueIdentifier>{5279FD2D-EF95-4116-A910-0AD541E12307}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,8 +26,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\InduVR">
-      <UniqueIdentifier>{C508CEBA-D524-4221-A28A-830498E1E878}</UniqueIdentifier>
+      <UniqueIdentifier>{B94EAB25-0674-4A63-AF2F-156705E32738}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\InduVR\HandController.cpp">
+      <Filter>Source\InduVR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InduVR\HandController.h">
+      <Filter>Source\InduVR</Filter>
+    </ClInclude>
     <None Include="..\..\Source\InduVR\InduVR.Build.cs">
       <Filter>Source\InduVR</Filter>
     </None>
@@ -39,6 +47,18 @@
       <Filter>Source\InduVR</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\InduVR\InduVRGameModeBase.h">
+      <Filter>Source\InduVR</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InduVR\TeleportHandController.cpp">
+      <Filter>Source\InduVR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InduVR\TeleportHandController.h">
+      <Filter>Source\InduVR</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InduVR\VRPawn.cpp">
+      <Filter>Source\InduVR</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InduVR\VRPawn.h">
       <Filter>Source\InduVR</Filter>
     </ClInclude>
   </ItemGroup>

@@ -7,10 +7,16 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\cg0nz4lezbr1t0\Workspace\InduVR\Intermediate\Build\Win64\InduVREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\cg0nz4lezbr1t0\Workspace\InduVR\Intermediate\Build\Win64\UE4Editor\Development\InduVR\HandController.cpp.obj"
 "C:\Users\cg0nz4lezbr1t0\Workspace\InduVR\Intermediate\Build\Win64\UE4Editor\Development\InduVR\InduVR.cpp.obj"
 "C:\Users\cg0nz4lezbr1t0\Workspace\InduVR\Intermediate\Build\Win64\UE4Editor\Development\InduVR\InduVRGameModeBase.cpp.obj"
+"C:\Users\cg0nz4lezbr1t0\Workspace\InduVR\Intermediate\Build\Win64\UE4Editor\Development\InduVR\TeleportHandController.cpp.obj"
+"C:\Users\cg0nz4lezbr1t0\Workspace\InduVR\Intermediate\Build\Win64\UE4Editor\Development\InduVR\VRPawn.cpp.obj"
+"C:\Users\cg0nz4lezbr1t0\Workspace\InduVR\Intermediate\Build\Win64\UE4Editor\Development\InduVR\HandController.gen.cpp.obj"
 "C:\Users\cg0nz4lezbr1t0\Workspace\InduVR\Intermediate\Build\Win64\UE4Editor\Development\InduVR\InduVR.init.gen.cpp.obj"
 "C:\Users\cg0nz4lezbr1t0\Workspace\InduVR\Intermediate\Build\Win64\UE4Editor\Development\InduVR\InduVRGameModeBase.gen.cpp.obj"
+"C:\Users\cg0nz4lezbr1t0\Workspace\InduVR\Intermediate\Build\Win64\UE4Editor\Development\InduVR\TeleportHandController.gen.cpp.obj"
+"C:\Users\cg0nz4lezbr1t0\Workspace\InduVR\Intermediate\Build\Win64\UE4Editor\Development\InduVR\VRPawn.gen.cpp.obj"
 "C:\Users\cg0nz4lezbr1t0\Workspace\InduVR\Intermediate\Build\Win64\UE4Editor\Development\InduVR\Default.rc2.res"
 /OUT:"C:\Users\cg0nz4lezbr1t0\Workspace\InduVR\Intermediate\Build\Win64\UE4Editor\Development\InduVR\UE4Editor-InduVR.lib"
 /INCLUDE:IMPLEMENT_MODULE_InduVR
